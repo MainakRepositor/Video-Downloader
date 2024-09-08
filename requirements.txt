@@ -1,4 +1,5 @@
 streamlit
 yt_dlp
+pytube
 os
 numpy
