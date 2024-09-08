@@ -22,10 +22,10 @@ def download_video(url):
         return None
 
 # Streamlit Interface
-st.title("Video Downloader")
+st.title("Free Youtube Video Downloader")
 
 # Input box for URL
-url = st.text_input("Enter the video URL (YouTube, Facebook, Instagram, LinkedIn):")
+url = st.text_input("Enter the Youtube video URL")
 
 # Check if URL is entered
 if url:
